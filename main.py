@@ -88,10 +88,10 @@ def choice():
         studentenroll()
     elif choice==3:
         print("\n\n\t\t+++++++++++++Thank You++++++++++++")
-        print("\n\n\t\t===========Made By Gagan Zarbade=========")
+        print("\n\n\t\t===========Made By Jatin Saini=========")
     else:
         print("\n\n\t\t+++++++++++++Thank You++++++++++++")
-        print("\n\n\t\t===========Made By Gagan Zarbade=========")
+        print("\n\n\t\t===========Made By Jatin Saini=========")
 
         
 
